@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbefff/liri-node-app.git"
+  },
+  "author": "Kelsey Beffel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbefff/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/kbefff/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "i": "^0.3.6",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.8.0"
+  }
+}
