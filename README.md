@@ -1,5 +1,7 @@
 # LIRI Bot
 
+![Demo] (https://user-images.githubusercontent.com/25047389/53387303-2057f600-393b-11e9-82f3-f145280e0e0f.gif)
+
 ### Overview
 
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -224,6 +226,8 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 
+
+### Example Commands....
 node liri.js concert-this The Killers
 node liri.js spotify-this-song Hello
 node liri.js movie-this The Italian Job
