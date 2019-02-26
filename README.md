@@ -1,6 +1,6 @@
 # LIRI Bot
 
-<img src="https://user-images.githubusercontent.com/25047389/53387303-2057f600-393b-11e9-82f3-f145280e0e0f.gif" alt="liri_works" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/25047389/53387303-2057f600-393b-11e9-82f3-f145280e0e0f.gif" alt="liri_works" style="max-width:70%;">
 
 ### Overview
 
