@@ -65,7 +65,7 @@ var runCommand = function () {
 
         axios.get(queryUrl).then(
             function (response) {
-
+                // console.log(response.data);
                 var eventTime = response.data[0].datetime;
 
                 console.log("Venue: " + response.data[0].venue.name);

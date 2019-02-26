@@ -223,3 +223,8 @@ After completing the homework please add the piece to your portfolio. Make sure 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!**
+
+node liri.js concert-this The Killers
+node liri.js spotify-this-song Hello
+node liri.js movie-this The Italian Job
+node liri.js do-what-it-says
