@@ -23,5 +23,6 @@
     "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7",
     "npm": "^6.8.0"
-  }
+  },
+  "devDependencies": {}
 }
